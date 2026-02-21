@@ -23,6 +23,7 @@ A real-time face scanning application that tracks and visualizes facial features
 - **Head roll** angle visualization
 - **Iris tracking**
 - **Face wireframe overlay**
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/946247c9-4070-49b4-883d-c1eeaf43d7dd" />
 
 ## Features
 
